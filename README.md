@@ -30,4 +30,4 @@ In this lecture we will cover in a hands-on and incremental fashion the theoreti
 - Measure p-values
 - Compare the likelihood of two outcomes.
 
-Slides: https://github.com/DataForScience/Probability/blob/master/slides/Probability.pdf
+Slides: http://data4sci.com/landing/probability
