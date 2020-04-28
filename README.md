@@ -1,6 +1,9 @@
+
 # Applied Probability Theory From Scratch
 
 ### Code and slides to accompany the online series of webinars: https://data4sci.com/probability by Data For Science.
+
+### Run the code in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/Probability/master) or CoLAB  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DataForScience/Probability/)
 
 Recent advances in Machine Learning and Artificial Intelligence have result in a great deal of attention and interest in these two areas of Computer Science and Mathematics. Most of these advances and developments have relied in stochastic and probabilistic models, requiring a deep understanding of Probability Theory and how to apply it to each specific situation
 
