@@ -1,5 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/DataForScience/Probability)
-![Twitter Follow](https://img.shields.io/twitter/follow/data4sci?style=social)
+[![Twitter @data4sci](https://img.shields.io/twitter/follow/data4sci)](https://twitter.com/intent/follow?screen_name=data4sci)
 ![GitHub top language](https://img.shields.io/github/languages/top/DataForScience/Probability)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DataForScience/Probability)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DataForScience/Probability)
